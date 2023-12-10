@@ -21,7 +21,7 @@ import javax.swing.table.*;
 //import net.sf.jasperreports.view.JasperViewer;
 /**
  *
- * @author Ican
+ * @author Faris
  */
 public class form_beli extends javax.swing.JFrame {
     public Statement st;

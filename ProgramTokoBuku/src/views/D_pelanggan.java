@@ -18,7 +18,7 @@ import static koneksi.config.conn;
 
 /**
  *
- * @author Ican
+ * @author Faris
  */
 public class D_pelanggan extends javax.swing.JFrame {
     public Statement st;

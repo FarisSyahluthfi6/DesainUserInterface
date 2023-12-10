@@ -18,7 +18,7 @@ import java.util.logging.*;
 import static koneksi.config.conn;
 /**
  *
- * @author Ican
+ * @author Faris
  */
 public class D_buku extends javax.swing.JFrame {
     public Statement st;
