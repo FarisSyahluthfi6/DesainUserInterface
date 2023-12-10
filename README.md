@@ -11,7 +11,7 @@ Membuat aplikasi penjualan toko buku menggunakan bahasa pemrograman Java di Netb
 
 # From Penjualan Toko Buku
 
-# Koneksi Database
+# 1. Koneksi Database
 
 ``` java
 
@@ -536,3 +536,10 @@ public class Form_admin extends javax.swing.JFrame {
 
 ``` 
 
+# 3. From Menu Utama
+
+![Menu Utama](gambar/Menu.png)</p>
+
+Code Program dari from menu utama : </p>
+
+``` java
