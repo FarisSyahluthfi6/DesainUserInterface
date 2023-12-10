@@ -23,7 +23,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Ican
+ * @author Faris
  */
 public class Form_admin extends javax.swing.JFrame {
     public Statement st;

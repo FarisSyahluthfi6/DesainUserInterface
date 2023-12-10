@@ -9,7 +9,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 /**
  *
- * @author Ican
+ * @author Faris
  */
 public class config {
     public static Connection conn;
